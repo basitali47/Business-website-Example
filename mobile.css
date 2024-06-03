@@ -1,0 +1,1273 @@
+@media screen and (min-width: 1134px) {
+
+    .latest-items {
+        height: 395px;
+
+    }
+
+    .latest-items-description {
+
+        height: 383px;
+    }
+
+
+
+}
+
+@media screen and (min-width: 1026px) and (max-width: 1134px) {
+
+    .project-images {
+        width: 30vw;
+    }
+
+}
+
+@media screen and (min-width: 750px) and (max-width: 1025px) {
+
+
+    html {
+        font-size: 55.5%;
+    }
+
+    .centre-header {
+        width: 58vw;
+        gap: 1rem;
+    }
+
+    .centre-header a {
+
+        font-size: 2.3rem;
+
+    }
+
+
+    .left-header {
+        font-size: 2rem;
+        padding: 0.5rem;
+        width: 20vw;
+    }
+
+    .right-header a {
+
+        font-size: 2rem;
+    }
+
+    .kodi-icon {
+
+        width: 10%;
+        width: 8%;
+        height: 46px;
+
+    }
+
+    #tangre {
+        font-size: 2.6rem;
+    }
+
+    .nav-bar li a {
+
+        font-size: 2rem;
+    }
+
+    #banner-button {
+
+        height: 57px;
+        width: 20%;
+        font-size: 2.8rem;
+        margin-top: 2rem;
+        border-radius: 1.25rem;
+
+    }
+
+    .primary-heading {
+
+        font-size: 4.2rem;
+        font-weight: 200;
+
+    }
+
+    .p-text {
+
+        font-size: 3.2rem;
+        text-align: center;
+        width: 79%;
+
+    }
+
+    .latest-news {
+
+        height: 238px;
+    }
+
+    .latest-items {
+        flex-wrap: wrap;
+        height: 898px;
+        justify-content: initial;
+        padding-left: 5vw;
+    }
+
+    .latest-items-description {
+        height: 414px;
+        width: 46%;
+        margin-bottom: 2rem;
+    }
+
+    .latest-items-description img {
+
+        height: 244px;
+        object-position: 90% 61%;
+    }
+
+    .secondary-heading {
+        font-size: 2.6rem;
+
+    }
+
+    .latest-items-description p {
+
+        font-size: 2.6rem;
+    }
+
+    #nav ul {
+
+        height: 45px;
+        flex-wrap: wrap;
+    }
+
+    #nav ul li a {
+
+        font-size: 2.5rem;
+    }
+
+    #images {
+
+        height: 1188px;
+        gap: 2rem;
+
+    }
+
+    .project-images {
+        height: 367px;
+        width: 46%;
+        margin-bottom: 2rem;
+        margin-right: 0rem;
+    }
+
+    #images img {
+        width: 40rem;
+        height: 296px;
+    }
+
+    .project-heading {
+        font-size: 2.8rem;
+    }
+
+    .project-images p {
+
+        font-size: 2.7rem;
+
+    }
+
+    .project-images:hover {
+        box-shadow: none;
+
+        .project-heading {
+            color: #66acc9;
+            cursor: pointer;
+        }
+    }
+
+    .Executives-container {
+
+        height: 416px;
+    }
+
+    .exec-msg {
+
+        width: 41%;
+        height: 292px;
+
+    }
+
+    .msg p {
+
+        font-size: 2.5rem;
+
+    }
+
+    .msg h3 {
+        font-size: 2.7rem;
+
+    }
+
+    .footer-headings {
+
+        font-size: 2.8rem;
+    }
+
+    #top-products a {
+
+        font-size: 2.4rem;
+    }
+
+    #newsletter {
+
+        height: 335px;
+
+    }
+
+    #newsletter input {
+        font-size: 2rem;
+        height: 50px;
+        width: 33vw;
+
+    }
+
+    #newsletter p {
+        font-size: 2.4rem;
+
+    }
+
+    #subscribe {
+
+        width: 19vw;
+        font-size: 2rem;
+
+    }
+
+    #copyright p {
+        font-size: 2.5rem;
+        padding-left: 2.2rem;
+        padding-right: 3rem;
+
+    }
+
+    .menu-bar {
+        display: none;
+    }
+
+    #feed-img img {
+        width: 5rem;
+        height: 5rem;
+    }
+
+}
+
+
+@media screen and (min-width: 915px) and (max-width: 1025px) {
+
+    .exec-msg {
+
+        height: 242px;
+    }
+
+
+}
+
+@media screen and (min-width: 820px) and (max-width: 1025px) {
+
+    .latest-items {
+
+        height: 1049px;
+
+    }
+
+    .latest-items-description {
+        height: 478px;
+
+    }
+
+    .latest-items-description img {
+        height: 285px;
+        object-position: 89% 99%;
+    }
+
+
+}
+
+@media screen and (min-width: 750px) and (max-width: 821px) {
+
+    .latest-items {
+
+        flex-wrap: wrap;
+        height: 1083px;
+
+    }
+
+    .latest-items-description {
+        height: 511px;
+    }
+
+    .latest-items-description img {
+        height: 290px;
+
+    }
+
+}
+
+
+@media screen and (min-width: 420px) and (max-width: 749px) {
+
+
+    html {
+        font-size: 46.5%;
+    }
+
+    .header {
+        display: none;
+    }
+
+    #tangre {
+        font-size: 3rem;
+    }
+
+
+    .kodi-icon {
+
+        width: 10%;
+
+    }
+
+
+    .menu-bar {
+        margin-left: 61vw;
+        display: block;
+    }
+
+    .nav-bar li {
+
+        margin-bottom: 2rem;
+    }
+
+    .nav-bar li a {
+
+        color: white;
+        font-size: 2.8rem;
+    }
+
+    .nav-bar {
+        background: #333333;
+        width: 40vw;
+        top: 76px;
+        height: 880px;
+        flex-direction: column;
+        position: absolute;
+        justify-content: initial;
+        left: -100vw;
+        transition: 0.5s;
+
+    }
+
+    #check:checked~.nav-bar {
+        left: 0px;
+    }
+
+    #check-box {
+        font-size: 3rem;
+        color: #8baaf1;
+    }
+
+    .home-banner {
+
+        height: 340px;
+        background-size: 100% 340px;
+    }
+
+    .banner-text {
+
+        margin-left: 3rem;
+        font-size: 5.5rem;
+
+    }
+
+    #banner-button {
+
+        width: 27%;
+        margin-left: 3rem;
+        font-size: 2.3rem;
+
+    }
+
+    .latest-news {
+
+        height: 177px;
+        padding-top: 8rem;
+    }
+
+    .primary-heading {
+
+        font-weight: 200;
+        font-size: 4rem;
+        text-align: center;
+        line-height: 3.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .p-text {
+
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
+        font-size: 3.1rem;
+        width: 79%;
+
+
+    }
+
+    .latest-items {
+
+        flex-direction: column;
+        height: 1454px;
+        align-items: center;
+
+
+    }
+
+    .secondary-heading {
+
+        font-size: 2.2rem;
+
+    }
+
+    .latest-items-description p {
+
+        font-size: 2.3rem;
+
+    }
+
+    .latest-items-description {
+        width: 82%;
+        height: 451px;
+        margin-bottom: 2rem;
+        border: 1px solid rgb(203, 193, 193);
+    }
+
+    .latest-items-description img {
+        width: 100%;
+        height: 317px;
+        object-position: 96% 99%;
+
+    }
+
+
+    .clients-satisfaction {
+
+        display: block;
+        height: 1279px;
+
+    }
+
+    #numeric-values p {
+
+        font-size: 3.5rem;
+
+    }
+
+    .outer-circle {
+
+        margin: 3rem;
+
+    }
+
+    #digital-solution h1 {
+
+        font-size: 5rem;
+        margin: 3rem;
+
+    }
+
+    #digital-solution p {
+
+        font-size: 3.4rem;
+        margin-right: 3rem;
+        margin-left: 3rem;
+
+    }
+
+    #offer {
+
+        width: 38vw;
+        font-size: 2.5rem;
+
+    }
+
+    #free-quote {
+
+        width: 38vw;
+        font-size: 2.5rem;
+
+    }
+
+    #nav {
+        margin-bottom: 7.4rem;
+    }
+
+    #nav ul {
+
+        flex-wrap: wrap;
+
+    }
+
+    #nav li a {
+
+        font-size: 2.4rem;
+
+    }
+
+    #images {
+        flex-direction: column;
+        width: 100%;
+        height: 2027px;
+        margin-bottom: 2rem;
+        padding-left: 6vw;
+    }
+
+    .project-heading {
+
+        font-size: 2.8rem
+    }
+
+    .project-images p {
+
+        font-size: 2.7rem;
+
+    }
+
+    .project-images {
+        width: 95%;
+        height: 321px;
+        margin-bottom: 2rem;
+        overflow: hidden;
+
+    }
+
+    #images img {
+
+        width: 90vw;
+        height: 240px;
+
+    }
+
+    .project-images:hover {
+        box-shadow: none;
+
+        .project-heading {
+            color: #66acc9;
+            cursor: pointer;
+        }
+    }
+
+    .Executives-container {
+
+        height: 361px;
+
+    }
+
+    .exec-msg {
+        width: 81%;
+        height: 203px;
+    }
+
+    .exec-msg img {
+
+        width: 5rem;
+        height: 5rem;
+
+    }
+
+    .msg p {
+
+        font-size: 2.6rem;
+
+    }
+
+
+    .msg h3 {
+
+        font-size: 2.7rem;
+
+    }
+
+    #msg-hide {
+
+        display: none;
+    }
+
+    .footer {
+        width: 100%;
+        height: 784px;
+    }
+
+
+    .footer-headings {
+
+        font-size: 2.8rem;
+    }
+
+    .footer-part1 {
+
+        flex-direction: column;
+
+    }
+
+    #top-products {
+
+        width: 100%;
+        height: 187px;
+        padding-top: 1.5rem;
+
+    }
+
+    #top-products a {
+
+        font-size: 2.5rem;
+
+    }
+
+    #newsletter {
+        width: 100%;
+        height: 242px;
+        padding-top: 1.5rem;
+    }
+
+    #newsletter p {
+
+        font-size: 2.5rem;
+
+    }
+
+    #newsletter input {
+
+        border-radius: 2.9rem;
+        display: block;
+        height: 46px;
+        width: 91%;
+        margin-bottom: 1rem;
+        font-size: 2.6rem;
+
+    }
+
+    #subscribe {
+
+        height: 46px;
+        width: 30%;
+        border-radius: 2.9rem;
+        font-size: 2.6rem;
+    }
+
+    .instagram {
+
+        width: 100%;
+        padding-top: 1.5rem;
+        height: 222px;
+        font-size: 2.6rem;
+    }
+
+    #feed-img img {
+
+        width: 8rem;
+        height: 8rem;
+        margin-right: 1rem;
+
+    }
+
+    .footer-part2 {
+
+        flex-wrap: wrap;
+        padding-left: 3vw;
+        justify-content: initial;
+    }
+
+    #copyright p {
+        font-size: 2.5rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    #footer-icons {
+
+        width: 48vw;
+        gap: 2.5rem;
+    }
+
+    .footer-part2 a {
+
+        width: 20%;
+        font-size: 2.5rem;
+
+    }
+
+    #feed-img {
+        gap: 4vw;
+        width: 87%;
+
+    }
+
+}
+
+
+@media screen and (min-width: 465px) and (max-width: 750px) {
+
+    .clients-satisfaction {
+        display: block;
+        height: 1196px;
+    }
+
+
+}
+
+
+@media screen and (min-width: 632px) and (max-width: 750px) {
+
+    .latest-items {
+        height: 1454px;
+    }
+
+
+    .latest-items-description {
+        width: 70rem;
+        height: 460px;
+    }
+
+    .latest-items-description img {
+        height: 339px;
+    }
+
+
+
+    .project-images {
+        width: 45%;
+        height: 323px;
+
+    }
+
+    #images {
+        width: 100%;
+        height: 1014px;
+        padding-left: 0vw;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    #images img {
+        width: 38rem;
+        height: 265px;
+    }
+
+
+}
+
+@media screen and (min-width: 420px) and (max-width: 500px) {
+
+    .latest-items-description {
+        width: 54rem;
+    }
+
+    #images {
+        height: 2510px;
+    }
+
+    .project-images {
+        height: 402px;
+    }
+
+    #images img {
+        height: 343px;
+        width: 51rem;
+    }
+
+}
+
+@media screen and (min-width: 501px) and (max-width: 631px) {
+    #images {
+        height: 2741px;
+    }
+
+    .project-images {
+        width: 95%;
+        height: 441px;
+    }
+
+    #images img {
+        width: 58rem;
+        height: 404px;
+    }
+
+
+}
+
+@media screen and (min-width: 501px) and (max-width: 599px) {
+    #images {
+        height: 2741px;
+    }
+
+    .project-images {
+        width: 95%;
+        height: 441px;
+    }
+
+    #images img {
+        width: 58rem;
+        height: 404px;
+    }
+
+
+}
+
+@media screen and (min-width: 441px) and (max-width: 589px) {
+
+    #feed-img {
+        gap: 4vw;
+        width: 75%;
+        margin-right: 1rem;
+    }
+}
+
+@media screen and (min-width: 590px) and (max-width: 749px) {
+
+    #feed-img {
+        gap: 4vw;
+        width: 60%;
+        margin-right: 1rem;
+    }
+}
+
+
+
+@media screen and (min-width: 310px) and (max-width: 419px) {
+
+
+    html {
+        font-size: 46.5%;
+    }
+
+    .header {
+        display: none;
+    }
+
+
+    .kodi-icon {
+
+        width: 10%;
+
+    }
+
+    #tangre {
+        font-size: 3.6rem;
+    }
+
+    .menu-bar {
+        margin-left: 46vw;
+        display: block;
+
+    }
+
+    .nav-bar li {
+
+        margin-bottom: 2rem;
+    }
+
+    .nav-bar li a {
+
+        color: white;
+        font-size: 2.8rem;
+    }
+
+    .nav-bar {
+        background: #333333;
+        width: 40vw;
+        top: 76px;
+        height: 844px;
+        flex-direction: column;
+        position: absolute;
+        justify-content: initial;
+        left: -100vw;
+        transition: 0.5s;
+
+    }
+
+    #check:checked~.nav-bar {
+        left: 0px;
+    }
+
+    #check-box {
+        font-size: 3rem;
+        color: #8baaf1;
+    }
+
+    .home-banner {
+
+        height: 340px;
+        background-size: 100% 340px;
+    }
+
+    .banner-text {
+
+        margin-left: 0.4rem;
+        font-size: 4.55rem;
+
+    }
+
+    #banner-button {
+        margin-top: 4rem;
+        height: 38px;
+        width: 33%;
+        margin-left: 1rem;
+        font-size: 2.25rem;
+    }
+
+
+    .latest-news {
+
+        height: 203px;
+        padding-top: 8rem;
+    }
+
+    .primary-heading {
+
+        font-weight: 200;
+        font-size: 4rem;
+        text-align: center;
+        line-height: 3.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .p-text {
+
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        font-size: 3rem;
+        text-align: initial;
+        width: 80%;
+    }
+
+    .secondary-heading {
+
+        font-size: 2.8rem;
+
+    }
+
+
+    .latest-items {
+
+        flex-direction: column;
+        height: 1312px;
+        align-items: center;
+    }
+
+    .latest-items-description {
+        width: 90%;
+        height: 420px;
+        margin-bottom: 2rem;
+        border: 1px solid rgb(203, 193, 193);
+        ;
+    }
+
+    .latest-items-description p {
+
+        font-size: 2.5rem;
+    }
+
+    .latest-items-description img {
+        width: 90vw;
+        height: 221px;
+    }
+
+
+    .clients-satisfaction {
+
+        display: block;
+        height: 1411px;
+
+    }
+
+    .outer-circle {
+
+        margin: 3rem;
+
+    }
+
+    #numeric-values p {
+
+        font-size: 3.5rem;
+
+    }
+
+    #digital-solution h1 {
+
+        font-size: 5rem;
+        margin: 3rem;
+
+    }
+
+    #digital-solution p {
+
+        font-size: 3.4rem;
+        margin-right: 3rem;
+        margin-left: 3rem;
+
+    }
+
+    #offer {
+
+        width: 47%;
+        font-size: 2.4rem;
+
+    }
+
+    #free-quote {
+
+        width: 47%;
+        font-size: 2.4rem;
+
+    }
+
+    #text-area {
+
+        height: 217px;
+    }
+
+
+    #nav {
+        margin-bottom: 7.4rem;
+    }
+
+    #nav ul {
+
+        flex-wrap: wrap;
+
+    }
+
+    #nav li a {
+
+        font-size: 2.5rem;
+
+    }
+
+    #images {
+        flex-direction: column;
+        width: 100%;
+        height: 2488px;
+        margin-bottom: 2rem;
+        padding-left: 6vw;
+    }
+
+    .project-heading {
+        font-size: 2.5rem;
+    }
+
+    .project-images p {
+
+        font-size: 2.5rem;
+    }
+
+
+    .project-images {
+        width: 95%;
+        height: 398px;
+        margin-bottom: 2rem;
+        overflow: hidden;
+
+    }
+
+    #images img {
+
+        width: 90vw;
+        height: 341px;
+        object-fit: contain;
+
+    }
+
+    .project-images:hover {
+        box-shadow: none;
+
+        .project-heading {
+            color: #66acc9;
+            cursor: pointer;
+        }
+    }
+
+    .Executives-container {
+
+        height: 382px;
+    }
+
+    .msg {
+
+        padding-right: 1rem;
+    }
+
+    .exec-msg {
+
+        width: 84%;
+        height: 256px;
+
+    }
+
+    .exec-msg img {
+
+        width: 5rem;
+        height: 5rem;
+
+    }
+
+    .msg p {
+        color: rgb(119, 119, 119);
+        font-size: 2.6rem;
+    }
+
+    .msg h3 {
+        font-size: 2.7rem;
+    }
+
+    #msg-hide {
+
+        display: none;
+    }
+
+    .footer {
+        width: 100%;
+        height: 787px;
+    }
+
+    .footer-part1 {
+        flex-direction: column;
+    }
+
+    .footer-headings {
+
+        font-size: 2.8rem;
+
+    }
+
+    #top-products {
+        width: 100%;
+        height: 185px;
+        padding-top: 1.5rem;
+    }
+
+    #top-products a {
+
+        font-size: 2.5rem;
+    }
+
+    #newsletter {
+        width: 100%;
+        height: 230px;
+        padding-top: 1.5rem;
+
+    }
+
+    #newsletter p {
+        font-size: 2.5rem;
+    }
+
+    #newsletter input {
+
+        border-radius: 2.9rem;
+        display: block;
+        height: 43px;
+        width: 91%;
+        margin-bottom: 1rem;
+        font-size: 2.6rem;
+
+    }
+
+    #subscribe {
+
+        height: 43px;
+        width: 30%;
+        border-radius: 2.9rem;
+        font-size: 2.6rem;
+    }
+
+    .instagram {
+
+        width: 100%;
+        padding-top: 1.5rem;
+        height: 231px;
+    }
+
+    #feed-img {
+        gap: 3.5vw;
+    }
+
+
+    #feed-img img {
+        width: 7rem;
+        height: 7rem;
+    }
+
+    .footer-part2 {
+
+        flex-wrap: wrap;
+        padding-left: 3vw;
+        justify-content: initial;
+    }
+
+
+    #footer-icons {
+
+        width: 52vw;
+
+    }
+
+    #copyright p {
+        font-size: 2.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .footer-part2 a {
+
+
+        width: 30%;
+        font-size: 2.5rem;
+
+    }
+
+}
+
+
+
+
+
+@media screen and (min-width: 310px) and (max-width: 330px) {
+    #images {
+
+        height: 2232px;
+
+    }
+
+    .project-images {
+
+        height: 357px;
+
+    }
+
+    #images img {
+        height: 341px;
+        object-fit: contain;
+    }
+}
+
+
+@media screen and (min-width: 397px) and (max-width: 419px) {
+
+    #feed-img {
+        gap: 5vw;
+    }
+}
+
+
+@media screen and (min-width: 363px) and (max-width: 419px) {
+
+    .latest-items {
+
+        height: 1254px;
+    }
+
+    .latest-items-description {
+        width: 90%;
+        height: 394px;
+    }
+
+}
